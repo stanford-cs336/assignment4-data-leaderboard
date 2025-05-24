@@ -34,6 +34,7 @@ In your pull request description, you should include:
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
+| Arya Bakhtiar |            3.7494 | [Wandb](https://drive.google.com/file/d/1AK2mqNKR_x0DeyoJyqZjI9kVYaUKecTe/view?usp=drive_link)     |       
 | Angela Liu | 3.768 | [Wandb](https://api.wandb.ai/links/aliu917/1oisofti) | |
 | Joe Li | 3.88 | [Wandb](https://api.wandb.ai/links/jli505/iribws78) | |
 | naive baseline |            4.00 |      |                          Verified |
