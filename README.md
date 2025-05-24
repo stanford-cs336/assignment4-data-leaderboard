@@ -28,4 +28,5 @@ In your pull request description, you should include:
 | Varun Desai    |            3.58 | https://api.wandb.ai/links/vdesai10/ekdr2kg7| |                   |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
+| Angela Liu | 3.768 | [Wandb](https://api.wandb.ai/links/aliu917/1oisofti) | |
 | naive baseline |            4.00 |      |                          Verified |
