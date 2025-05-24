@@ -25,10 +25,11 @@ In your pull request description, you should include:
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
 | Pinlin [Calvin] Xu | 3.31111 |[Wandb](https://api.wandb.ai/links/pinlinxu-lab/zsk1uj2o) | |
 | Mehmet Hamza Erol | 3.3113 |[Wandb](https://api.wandb.ai/links/mhamzaerol-stanford-university/kjnsm8u4) | |
+| Varun Desai    |            3.46 | [Wandb](https://api.wandb.ai/links/vdesai10/nw5k9srw)| |                   |
+| Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
 | Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm |
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
-| Varun Desai    |            3.58 | https://api.wandb.ai/links/vdesai10/ekdr2kg7| |                   |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
 | Joe Li | 3.88 | [Wandb](https://api.wandb.ai/links/jli505/iribws78) | |
