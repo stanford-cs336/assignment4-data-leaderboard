@@ -29,6 +29,7 @@ In your pull request description, you should include:
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
 | Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm |
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
+| atj10          | 3.483           |[Wandb](https://api.wandb.ai/links/merceod/d2q4pexo) | |
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
