@@ -23,6 +23,7 @@ In your pull request description, you should include:
 | :------------- | --------------: | ---: | --------------------------------: |
 | Stephen Ge     |           3.24  | https://api.wandb.ai/links/stephenge/w21z5rh1  |                           |
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
+| Ramgopal Venkateswaran | 3.27 | [Wandb](https://api.wandb.ai/links/ramvenkat98/oso6ynyr) | |
 | Pinlin [Calvin] Xu | 3.31111 |[Wandb](https://api.wandb.ai/links/pinlinxu-lab/zsk1uj2o) | |
 | Mehmet Hamza Erol | 3.3113 |[Wandb](https://api.wandb.ai/links/mhamzaerol-stanford-university/kjnsm8u4) | |
 | Ryan Zhao | 3.446 | [Wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/8vyp4vcf) | |
@@ -32,7 +33,6 @@ In your pull request description, you should include:
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
 | atj10          | 3.483           |[Wandb](https://api.wandb.ai/links/merceod/d2q4pexo) | |
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
-| Ramgopal Venkateswaran | 3.61 | [Wandb](https://api.wandb.ai/links/ramvenkat98/oso6ynyr) | |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
 | Arya Bakhtiar |            3.7494 | [Wandb](https://drive.google.com/file/d/1AK2mqNKR_x0DeyoJyqZjI9kVYaUKecTe/view?usp=drive_link)     |       
