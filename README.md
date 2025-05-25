@@ -37,4 +37,5 @@ In your pull request description, you should include:
 | Arya Bakhtiar |            3.7494 | [Wandb](https://drive.google.com/file/d/1AK2mqNKR_x0DeyoJyqZjI9kVYaUKecTe/view?usp=drive_link)     |       
 | Angela Liu | 3.768 | [Wandb](https://api.wandb.ai/links/aliu917/1oisofti) | |
 | Joe Li | 3.88 | [Wandb](https://api.wandb.ai/links/jli505/iribws78) | |
+| Puheng Li | 3.99 | [Wandb](https://wandb.ai/puhengli-stanford-university/cs336-data/reports/eval_loss-25-05-25-14-17-27---VmlldzoxMjk0NDQwNw) |
 | naive baseline |            4.00 |      |                          Verified |
