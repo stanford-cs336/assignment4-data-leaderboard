@@ -30,6 +30,7 @@ In your pull request description, you should include:
 | Mehmet Hamza Erol | 3.3113 |[Wandb](https://api.wandb.ai/links/mhamzaerol-stanford-university/kjnsm8u4) | |
 | Michael Bereket | 3.33 | [Wandb](https://api.wandb.ai/links/mbereket/nhiwq1rg) | |
 | Ziqing Huang | 3.35|[Wandb](https://api.wandb.ai/links/ziqingh-stanford-university/h67l3qw9)||
+| Katherine Li | 3.35509| [Wandb](https://api.wandb.ai/links/kathli/v7pjy6b4)||
 | Radostin Cholakov | 3.36 | [Wandb](https://api.wandb.ai/links/radi-cho/rgwlfpr7) | |
 | Ashish Rao | 3.39758 |[Wandb](https://api.wandb.ai/links/aprao/izk2a37t) | |
 | Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm |
