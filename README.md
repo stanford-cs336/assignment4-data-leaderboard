@@ -25,7 +25,9 @@ In your pull request description, you should include:
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
 | Pinlin [Calvin] Xu | 3.31111 |[Wandb](https://api.wandb.ai/links/pinlinxu-lab/zsk1uj2o) | |
 | Mehmet Hamza Erol | 3.3113 |[Wandb](https://api.wandb.ai/links/mhamzaerol-stanford-university/kjnsm8u4) | |
+| Michael Bereket | 3.33 | [Wandb](https://api.wandb.ai/links/mbereket/nhiwq1rg) | |
 | Ziqing Huang | 3.35|[Wandb](https://api.wandb.ai/links/ziqingh-stanford-university/h67l3qw9)||
+| Radostin Cholakov | 3.36 | [Wandb](https://api.wandb.ai/links/radi-cho/rgwlfpr7) | |
 | Ryan Zhao | 3.446 | [Wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/8vyp4vcf) | |
 | Varun Desai    |            3.46 | [Wandb](https://api.wandb.ai/links/vdesai10/nw5k9srw)| |                   |
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
@@ -33,6 +35,7 @@ In your pull request description, you should include:
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
 | atj10          | 3.483           |[Wandb](https://api.wandb.ai/links/merceod/d2q4pexo) | |
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
+| Christopher Chou | 3.69 | [Wandb](https://api.wandb.ai/links/babychousr-stanford-university/uz2v5j8l) | |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
 | Arya Bakhtiar |            3.7494 | [Wandb](https://drive.google.com/file/d/1AK2mqNKR_x0DeyoJyqZjI9kVYaUKecTe/view?usp=drive_link)     |       
