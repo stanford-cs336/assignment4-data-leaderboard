@@ -25,6 +25,7 @@ In your pull request description, you should include:
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
 | Ramgopal Venkateswaran | 3.27 | [Wandb](https://api.wandb.ai/links/ramvenkat98/oso6ynyr) | |
 | Yihan Lai   |           3.292 | [Wandb](https://api.wandb.ai/links/ihan-stanford-university/825ovc1j)   |                           |
+| Divija Hasteer | 3.2942 | [Wandb](https://api.wandb.ai/links/dhasteer-stanford-university/wwd2ukmp) |                          |
 | Pinlin [Calvin] Xu | 3.31111 |[Wandb](https://api.wandb.ai/links/pinlinxu-lab/zsk1uj2o) | |
 | Mehmet Hamza Erol | 3.3113 |[Wandb](https://api.wandb.ai/links/mhamzaerol-stanford-university/kjnsm8u4) | |
 | Michael Bereket | 3.33 | [Wandb](https://api.wandb.ai/links/mbereket/nhiwq1rg) | |
