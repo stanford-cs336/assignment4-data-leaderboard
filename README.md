@@ -25,11 +25,11 @@ In your pull request description, you should include:
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
 | Pinlin [Calvin] Xu | 3.31111 |[Wandb](https://api.wandb.ai/links/pinlinxu-lab/zsk1uj2o) | |
 | Mehmet Hamza Erol | 3.3113 |[Wandb](https://api.wandb.ai/links/mhamzaerol-stanford-university/kjnsm8u4) | |
+| Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm ||
 | Ryan Zhao | 3.446 | [Wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/8vyp4vcf) | |
 | Varun Desai    |            3.46 | [Wandb](https://api.wandb.ai/links/vdesai10/nw5k9srw)| |                   |
-| Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
-| Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm |
-| Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
+| Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   | 
+| Angikar Ghosal     |           3.476 | [Wandb]()   |                           |
 | atj10          | 3.483           |[Wandb](https://api.wandb.ai/links/merceod/d2q4pexo) | |
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
