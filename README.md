@@ -35,6 +35,7 @@ In your pull request description, you should include:
 | Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm |
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   |                           |
 | atj10          | 3.483           |[Wandb](https://api.wandb.ai/links/merceod/d2q4pexo) | |
+| Adam Zhao | 3.523 | https://api.wandb.ai/links/zhao1adam-stanford-university/2y69my5q | | 
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
 | Christopher Chou | 3.69 | [Wandb](https://api.wandb.ai/links/babychousr-stanford-university/uz2v5j8l) | |
 | Orr Zohar |            3.73563 | [Wandb](https://wandb.ai/marvl/cs336-atlas-llm5/runs/w2ntyl1p?nw=nwuserorrzohar42)     |                           |
