@@ -40,6 +40,7 @@ In your pull request description, you should include:
 | Angikar Ghosal     |           3.476 | [Wandb]   |                           |
 | atj10          | 3.483           |[Wandb](https://api.wandb.ai/links/merceod/d2q4pexo) | |
 | Ayush Alag | 3.503 | [Wandb](https://api.wandb.ai/links/ayushalag1-stanford-university/9dyh30ws) | |
+| Milan Rohatgi | 3.513 | [Wandb](https://wandb.ai/milanrohatgi/cs336-data/reports/CS336-A4--VmlldzoxMjk2NDY4Ng) | |
 | Adam Zhao | 3.523 | https://api.wandb.ai/links/zhao1adam-stanford-university/2y69my5q | | 
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
 | Brendan McLaughlin | 3.56 | [Wandb](https://api.wandb.ai/links/bmc0407-stanford-university/stkuh1i8)| |
