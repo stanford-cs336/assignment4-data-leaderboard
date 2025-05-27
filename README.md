@@ -26,6 +26,7 @@ In your pull request description, you should include:
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
 | Yihan Lai   |           3.292 | [Wandb](https://api.wandb.ai/links/ihan-stanford-university/825ovc1j)   |                           |
 | Divija Hasteer | 3.2942 | [Wandb](https://api.wandb.ai/links/dhasteer-stanford-university/wwd2ukmp) |                          |
+| Ryan Zhao | 3.305 | [Wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/8vyp4vcf) | |
 | Pinlin [Calvin] Xu | 3.31111 |[Wandb](https://api.wandb.ai/links/pinlinxu-lab/zsk1uj2o) | |
 | Mehmet Hamza Erol | 3.3113 |[Wandb](https://api.wandb.ai/links/mhamzaerol-stanford-university/kjnsm8u4) | |
 | Michael Bereket | 3.33 | [Wandb](https://api.wandb.ai/links/mbereket/nhiwq1rg) | |
@@ -34,7 +35,6 @@ In your pull request description, you should include:
 | Radostin Cholakov | 3.36 | [Wandb](https://api.wandb.ai/links/radi-cho/rgwlfpr7) | |
 | Ashish Rao | 3.39758 |[Wandb](https://api.wandb.ai/links/aprao/izk2a37t) | |
 | Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm |
-| Ryan Zhao | 3.446 | [Wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/8vyp4vcf) | |
 | Varun Desai    |            3.46 | [Wandb](https://api.wandb.ai/links/vdesai10/nw5k9srw)| |                   |
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   | |
 | Angikar Ghosal     |           3.476 | [Wandb]   |                           |
