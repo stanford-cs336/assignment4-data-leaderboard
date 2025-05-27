@@ -21,9 +21,9 @@ In your pull request description, you should include:
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Ramgopal Venkateswaran | 3.22628 | [Wandb](https://api.wandb.ai/links/ramvenkat98/ht0r0xub) | |
 | Stephen Ge     |           3.24  | https://api.wandb.ai/links/stephenge/w21z5rh1  |                           |
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
-| Ramgopal Venkateswaran | 3.27 | [Wandb](https://api.wandb.ai/links/ramvenkat98/oso6ynyr) | |
 | Yihan Lai   |           3.292 | [Wandb](https://api.wandb.ai/links/ihan-stanford-university/825ovc1j)   |                           |
 | Divija Hasteer | 3.2942 | [Wandb](https://api.wandb.ai/links/dhasteer-stanford-university/wwd2ukmp) |                          |
 | Pinlin [Calvin] Xu | 3.31111 |[Wandb](https://api.wandb.ai/links/pinlinxu-lab/zsk1uj2o) | |
