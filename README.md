@@ -35,6 +35,7 @@ In your pull request description, you should include:
 | Ashish Rao | 3.39758 |[Wandb](https://api.wandb.ai/links/aprao/izk2a37t) | |
 | Sally Zhu | 3.44 | https://api.wandb.ai/links/sallyzhu-stanford-university/ka3vb2cm |
 | Ryan Zhao | 3.446 | [Wandb](https://api.wandb.ai/links/knightasterial-stanforduniversity/8vyp4vcf) | |
+| Sai Konkimalla | 3.458 | [Wandb](https://api.wandb.ai/links/sai-konk/nqfsiprm) | |
 | Varun Desai    |            3.46 | [Wandb](https://api.wandb.ai/links/vdesai10/nw5k9srw)| |                   |
 | Harry Shin     |           3.472 | [Wandb](https://api.wandb.ai/links/dh2shin2-stanford-university/9a602nlp)   | |
 | Angikar Ghosal     |           3.476 | [Wandb]   |                           |
