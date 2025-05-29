@@ -60,5 +60,5 @@ In your pull request description, you should include:
 | Shiny Weng | 3.90 | [Wandb](https://api.wandb.ai/links/shinyweng-stanford-university/2mr0dpiv) | |
 | Nathan Chi | 3.95 | [Wandb](https://api.wandb.ai/links/nchi1-stanford-university/9ftykk46) | | 
 | Puheng Li | 3.99 | [Wandb](https://wandb.ai/puhengli-stanford-university/cs336-data/reports/eval_loss-25-05-25-14-17-27---VmlldzoxMjk0NDQwNw) |
-| Theodora Worledge | 3.99 | [Wandb](https://wandb.ai/teddiw/cs336-data?nw=nwuserteddiw) |
+| Theodora Worledge | 3.98 | [Wandb](https://wandb.ai/teddiw/cs336-data?nw=nwuserteddiw) |
 | naive baseline |            4.00 |      |                          Verified |
