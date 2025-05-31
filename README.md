@@ -45,12 +45,12 @@ In your pull request description, you should include:
 | Ayush Alag | 3.503 | [Wandb](https://api.wandb.ai/links/ayushalag1-stanford-university/9dyh30ws) | |
 | Milan Rohatgi | 3.513 | [Wandb](https://wandb.ai/milanrohatgi/cs336-data/reports/CS336-A4--VmlldzoxMjk2NDY4Ng) | |
 | Adam Zhao | 3.523 | https://api.wandb.ai/links/zhao1adam-stanford-university/2y69my5q | | 
+| Matthew Noto |            3.53082 | [Wandb](https://wandb.ai/nmr73/cs336-data/runs/yyjnwdbt?nw=nwusernmr73)     |                           |
 | Suze van Adrichem | 3.54 | [Wandb](https://api.wandb.ai/links/suzevana/dbtg929z)| |
 | Brendan McLaughlin | 3.56 | [Wandb](https://api.wandb.ai/links/bmc0407-stanford-university/stkuh1i8)| |
 | Tejas Narayanan | 3.647 | [Wandb](https://api.wandb.ai/links/tejas-narayanan/z7lgwzk2) | |
 | Joonhyuk Lee | 3.666 | [Wandb](https://api.wandb.ai/links/joonhyuk-stanford-university/qiv3cms9) | |
 | Christopher Chou | 3.69 | [Wandb](https://api.wandb.ai/links/babychousr-stanford-university/uz2v5j8l) | |
-| Matthew Noto |            3.71457 | [Wandb](https://wandb.ai/nmr73/cs336-data/runs/d4owymw1?nw=nwusernmr73)     |                           |
 | Orr Zohar |            3.73563 | [Wandb](https://wandb.ai/marvl/cs336-atlas-llm5/runs/w2ntyl1p?nw=nwuserorrzohar42)     |                           |
 | Karthik Dharmarajan |            3.7463 | [Wandb](https://wandb.ai/kdharmarajan/cs336-data/reports/CS336-Assignment-4-Data--VmlldzoxMjkyMTM0OA)     |                           |
 | Jack Hsieh |            3.7464 | [Wandb](https://wandb.ai/jackellishsieh-stanford-university/cs336-assignment4/runs/zemxn08s?nw=nwuserjackellishsieh)     |                           |
