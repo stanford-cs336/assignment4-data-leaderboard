@@ -21,10 +21,10 @@ In your pull request description, you should include:
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
-| Herman Brunborg | 3.19456 | [Wandb](https://api.wandb.ai/links/brunborg-cs336/tpyc1aon) |
-| Brandon Snider | 3.19477 | [Wandb](https://api.wandb.ai/links/brandon-snider-stanford-university/1g8m5ja1) | |
-| Ramgopal Venkateswaran | 3.22628 | [Wandb](https://api.wandb.ai/links/ramvenkat98/ht0r0xub) | |
-| Stephen Ge     |           3.24  | https://api.wandb.ai/links/stephenge/w21z5rh1  |                           |
+| Herman Brunborg | 3.19456 | [Wandb](https://api.wandb.ai/links/brunborg-cs336/tpyc1aon) | Verified |
+| Brandon Snider | 3.19477 | [Wandb](https://api.wandb.ai/links/brandon-snider-stanford-university/1g8m5ja1) | Verified |
+| Ramgopal Venkateswaran | 3.22628 | [Wandb](https://api.wandb.ai/links/ramvenkat98/ht0r0xub) | Verified |
+| Stephen Ge     |           3.24  | https://api.wandb.ai/links/stephenge/w21z5rh1  |                Verified           |
 | Prateek Varshney     |           3.26 | [Wandb](https://api.wandb.ai/links/stanfordcs/cc8z72jh)   |                           |
 | Yihan Lai   |           3.292 | [Wandb](https://api.wandb.ai/links/ihan-stanford-university/825ovc1j)   |                           |
 | Divija Hasteer | 3.2942 | [Wandb](https://api.wandb.ai/links/dhasteer-stanford-university/wwd2ukmp) |                          |
